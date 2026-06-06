@@ -27,6 +27,3 @@ It highlights my work, technical skills, and provides a professional online pres
 - 🌙 Dark themed professional layout
 
 ---
-
-# Run
-Open index.html in browser
